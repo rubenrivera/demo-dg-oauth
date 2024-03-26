@@ -1,9 +1,9 @@
 ---
 layout: "layouts/note.njk"
 permalink:
-    - dynamic: "/secure/travolta/"
+    dynamic: "/secure/travolta/"
 secure:
-    - unautheticatedRedirect: "/no-access/"
+    unautheticatedRedirect: "/no-access/"
 ---
 
 
