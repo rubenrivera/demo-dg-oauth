@@ -1,5 +1,5 @@
 {
     "_comment": "This a copy of /src/site/notes/notes.json",
-    "tags": "notes",
+    "tags": "note",
     "templateEngineOverride": "md"
 }

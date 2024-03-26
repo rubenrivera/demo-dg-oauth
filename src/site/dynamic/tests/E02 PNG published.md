@@ -3,7 +3,7 @@ layout: "layouts/note.njk"
 permalink:
     - dynamic: "/secure/travolta/"
 secure:
-    - unantheticatedRedirect: "/no-access/"
+    - unautheticatedRedirect: "/no-access/"
 ---
 
 
