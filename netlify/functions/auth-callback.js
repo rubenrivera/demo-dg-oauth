@@ -22,6 +22,7 @@ exports.handler = async (event, context) => {
   const state = querystring.parse(event.queryStringParameters.state)
 
   try {
+    console.log( "[auth-start] GETTING COOKIE" );
     // console.log( "[auth-callback] Cookies", event.headers.cookie );
     let cookies = event.headers.cookie ? cookie.parse(event.headers.cookie) : {};
     if(cookies._11ty_oauth_csrf !== state.csrf) {
@@ -57,12 +58,12 @@ exports.handler = async (event, context) => {
         },
         body: formBody
       } 
-      console.log(`${url}, ${JSON.stringify(options)}`) 
+      // console.log(`${url}, ${JSON.stringify(options)}`) 
       const response = await fetch(url, options);
       const accessToken = await response.json();
       if(await response.status === 200){
         token = accessToken.access_token;
-        console.log('token: ' + token);
+        // console.log('token: ' + token);
       } else {
         throw new Error(await response.statusText);
       }
@@ -75,7 +76,7 @@ exports.handler = async (event, context) => {
       });
 
       token = accessToken.token.access_token;
-      console.log( "[auth-callback]", { token } );
+      // console.log( "[auth-callback]", { token } );
     }
     // The noop key here is to workaround Netlify keeping query params on redirects
     // https://answers.netlify.com/t/changes-to-redirects-with-query-string-parameters-are-coming/23436/11
