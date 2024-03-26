@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/e-embeds/transclusions/t6-transclusion-inside-codeblock/"}
+{"dg-publish":true,"permalink":"/e-embeds/transclusions/t6-transclusion-inside-codeblock/","tags":["dg-test-vault"]}
 ---
 
 #known-issue [Issue](https://github.com/oleeskild/obsidian-digital-garden/issues/113)
