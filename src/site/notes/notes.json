@@ -1,4 +1,4 @@
 {
-    "tags": "note",
+    "tags": ["note","imported"],
     "templateEngineOverride": "md"
 }
