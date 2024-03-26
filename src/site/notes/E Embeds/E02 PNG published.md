@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/e-embeds/e02-png-published/"}
+{"dg-publish":true,"permalink":"/e-embeds/e02-png-published/","tags":["dg-test-vault"]}
 ---
 
 
