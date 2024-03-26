@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/path-rewriting/004-folder-set-to-root/"}
+{"dg-publish":true,"permalink":"/path-rewriting/004-folder-set-to-root/","tags":["dg-test-vault"]}
 ---
 
 This folder is set in path rewrite settings as 
