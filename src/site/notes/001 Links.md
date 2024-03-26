@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/001-links/"}
+{"dg-publish":true,"permalink":"/001-links/","tags":["dg-test-vault"]}
 ---
 
 [[002 Hidden page\|002 Hidden page]]
