@@ -1,5 +1,15 @@
 {
     "_comment": "This a copy of /src/site/notes/notes.json",
     "tags": "note",
-    "templateEngineOverride": "md"
+    "templateEngineOverride": "md",
+    "dgHomeLink": false,
+    "dgPassFrontmatter": false,
+    "dgShowBacklinks": false,
+    "dgShowLocalGraph": false,
+    "dgShowInlineTitle": false,
+    "dgShowFileTree": false,
+    "dgEnableSearch": false,
+    "dgShowToc": false,
+    "dgLinkPreview": false,
+    "dgShowTags": false
 }
