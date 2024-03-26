@@ -2,7 +2,7 @@
  * This a copy of /src/site/notes/notes.11tydata.js
  */
 require("dotenv").config();
-const settings = require("../../helpers/constants");
+const settings = require("src/helpers/constants");
 
 const allSettings = settings.ALL_NOTE_SETTINGS;
 
