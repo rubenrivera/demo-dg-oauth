@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000-home/"}
+{"dg-publish":true,"permalink":"/000-home/","tags":["dg-test-vault"]}
 ---
 
 ## Welcome
