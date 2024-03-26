@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/p-plugins/pe-excalidraw/pe-2-excalidraw-with-image/"}
+{"dg-publish":true,"permalink":"/p-plugins/pe-excalidraw/pe-2-excalidraw-with-image/","tags":["dg-test-vault"]}
 ---
 
 #known-issue 
