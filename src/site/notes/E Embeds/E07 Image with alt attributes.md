@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/e-embeds/e07-image-with-alt-attributes/"}
+{"dg-publish":true,"permalink":"/e-embeds/e07-image-with-alt-attributes/","tags":["dg-test-vault"]}
 ---
 
 This should render to a 200 px wide image with the alt text "center"
