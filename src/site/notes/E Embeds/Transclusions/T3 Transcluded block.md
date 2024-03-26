@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/e-embeds/transclusions/t3-transcluded-block/"}
+{"dg-publish":true,"permalink":"/e-embeds/transclusions/t3-transcluded-block/","tags":["dg-test-vault"]}
 ---
 
 
