@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/p-plugins/pe-excalidraw/pe-1-transcluded-excalidraw/"}
+{"dg-publish":true,"permalink":"/p-plugins/pe-excalidraw/pe-1-transcluded-excalidraw/","tags":["dg-test-vault"]}
 ---
 
 
