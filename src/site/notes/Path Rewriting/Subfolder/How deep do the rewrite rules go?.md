@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/path-rewriting/subfolder/how-deep-do-the-rewrite-rules-go/"}
+{"dg-publish":true,"permalink":"/path-rewriting/subfolder/how-deep-do-the-rewrite-rules-go/","tags":["dg-test-vault"]}
 ---
 
 With the rewrite rules: 
