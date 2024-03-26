@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/l-languages/transclude-headers/"}
+{"dg-publish":true,"permalink":"/l-languages/transclude-headers/","tags":["dg-test-vault"]}
 ---
 
 
