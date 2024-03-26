@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/012-callouts/"}
+{"dg-publish":true,"permalink":"/012-callouts/","tags":["dg-test-vault"]}
 ---
 
 #known-issue 
@@ -21,6 +21,7 @@
 > [!success] this one has a friggin note embedded in it 
 > 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
 
 
 

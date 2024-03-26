@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/e-embeds/transclusions/t5-transclude-custom-filters/"}
+{"dg-publish":true,"permalink":"/e-embeds/transclusions/t5-transclude-custom-filters/","tags":["dg-test-vault"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-qa-hell/break-links-transclusions/"}
+{"dg-publish":true,"permalink":"/0-qa-hell/break-links-transclusions/","tags":["dg-test-vault"]}
 ---
 
 Link with whitespace after link part: 
@@ -14,6 +14,7 @@ Whitespace and bar in name:
 # whitespace.
 
 </div>
+
 
 
 
@@ -34,12 +35,14 @@ Random hashes in transclusion title:
 
 
 
+
 </div></div>
 
 
 This is a header ref which doesn't exist: 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
 
 
 

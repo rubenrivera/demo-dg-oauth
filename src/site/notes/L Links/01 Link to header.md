@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/l-links/01-link-to-header/"}
+{"dg-publish":true,"permalink":"/l-links/01-link-to-header/","tags":["dg-test-vault"]}
 ---
 
 Link to header should keep header link info

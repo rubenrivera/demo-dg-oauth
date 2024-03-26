@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/e-embeds/transclusions/t1-base-file/"}
+{"dg-publish":true,"permalink":"/e-embeds/transclusions/t1-base-file/","tags":["dg-test-vault"]}
 ---
 
 

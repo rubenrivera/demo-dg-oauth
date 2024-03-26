@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/e-embeds/transclusions/t4-transcluded-header/"}
+{"dg-publish":true,"permalink":"/e-embeds/transclusions/t4-transcluded-header/","tags":["dg-test-vault"]}
 ---
 
 

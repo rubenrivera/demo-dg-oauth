@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/p-plugins/pd-dataview/pd-2-inline-queries/"}
+{"dg-publish":true,"permalink":"/p-plugins/pd-dataview/pd-2-inline-queries/","tags":["dg-test-vault"]}
 ---
 
 

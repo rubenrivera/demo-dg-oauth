@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/e-embeds/e04-png-reuse/"}
+{"dg-publish":true,"permalink":"/e-embeds/e04-png-reuse/","tags":["dg-test-vault"]}
 ---
 
 This file uses the same image as in [[E Embeds/E03 PNG_not_published\|E03 PNG_not_published]]. When removing the other one, the image should not be removed. 

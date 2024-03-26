@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/012-b-callouts-less-broken/"}
+{"dg-publish":true,"permalink":"/012-b-callouts-less-broken/","tags":["dg-test-vault"]}
 ---
 
 
@@ -15,6 +15,7 @@
 > [!success] this one has a friggin note embedded in it 
 > 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
 
 
 
