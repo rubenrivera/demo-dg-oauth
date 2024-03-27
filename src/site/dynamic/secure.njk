@@ -23,20 +23,36 @@ layout: layouts/index.njk
 
   summary {
     display: flex;
+    flex-wrap: wrap;
     cursor: pointer;
   }
 
   summary::-webkit-details-marker {
     display: none;
   }
+  .item {
+    flex-grow: 1;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  .break {
+  flex-basis: 100%;
+  height: 0;
+}
 </style>
 <h2>{{ user.name or user.full_name or user.localizedFirstName or user.display_name }}, this page is secure.</h2>
 {% include "components/logout.njk" %}
 <details>
   <summary>
-    <h3>Your user information</h3>
-    <p> Click to expand / collapse</p>
-    <span class="icon">🔽</span>
+    <div class="item">
+      <h3>Your user information</h3>
+    </div>
+    <div class="item">  
+      <span class="icon">🔽</span>
+    </div>
+    <div class="break"></div>
+
+    <div class="item"><small> Click to expand / collapse</small   s></div>
   </summary>
   <img src="{{ user.avatar_url or user.avatar or user.picture or user.profile_image or user["profilePicture"]["displayImage~"]["elements"][0]["identifiers"][0]["identifier"] }}" alt="Avatar for {{ user.name or user.full_name or user.localizedFirstName }}">
   <pre>
