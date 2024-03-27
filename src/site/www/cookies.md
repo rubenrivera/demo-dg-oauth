@@ -26,9 +26,6 @@ You can prevent the setting of cookies by adjusting the settings on your browser
 
     In order to provide you with a great experience on this site we provide the functionality to set your preferences for how this site runs when you use it. In order to remember your preferences we need to set cookies so that this information can be called whenever you interact with a page is affected by your preferences.
 
-* This site also uses **[gisqus](https://giscus.app)** to enable post commenting. Data (comments) are stored on the GitHub (no data is stored by our site), where logged in users have full control over it.
-
-    More info on GitHub privacy and law compliance can be found: [here](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
 
 ## More Information
 
