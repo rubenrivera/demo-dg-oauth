@@ -1,7 +1,13 @@
 // Put your computations here.
 
 function userComputed(data) {
-  return {};
+    
+  return {
+    cookieConsent: {
+      required: true,
+      consentUrl: "/cookies.html"
+    }
+  };
 }
 
 exports.userComputed = userComputed;
