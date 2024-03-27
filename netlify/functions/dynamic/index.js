@@ -29,6 +29,7 @@ function transformImage(src, cls, alt, sizes, widths = ["500", "700", "auto"]) {
 async function handler(event) {
   let authToken;
   let provider;
+  console.log("[dynamic] GETTING COOKIES");
   if(event.headers && event.headers.cookie) {
     let cookies = cookie.parse(event.headers.cookie);
     if(cookies._11ty_oauth_provider) {
@@ -47,6 +48,7 @@ async function handler(event) {
   let authError;
   try {
     let oauth = new OAuth(provider);
+    console.log("[dynamic] GETTING USER INFORMATION")
     user = await oauth.getUser(authToken, provider);
   } catch(e) {
     authError = e;
